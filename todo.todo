@@ -1,10 +1,3 @@
-# Course: CS 30
-# Period: 4
-# Date created: 19/03/9
-# Date last modified: 20/03/10
-# Name: Mathew Vonk
-# Description: changelog/todo list
-
 V 0.1:
     ☐ create pseudocode
     ☐ create item inventory
@@ -16,7 +9,7 @@ game:
     ☐ complete inventory.py
     ☐ complete pseudocode.py
 
-V 0.1 ex.:
+V 0.1 ex:
     ☐ complete ememies.py
     ☐ complete items.py
     ☐ complete player.py
